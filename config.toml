@@ -1,7 +1,7 @@
 baseURL = 'fascinating-peony-9f7402.netlify.app'
 languageCode = 'de-de'
 title = 'My website'
-theme = 'Typo'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
