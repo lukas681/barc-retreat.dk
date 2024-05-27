@@ -1,31 +1,30 @@
 baseURL = 'https://fascinating-peony-9f7402.netlify.app'
 languageCode = 'de-de'
-title = 'My website'
+title = 'BARC Retreat'
 theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
+# googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Planning our Retreat in Austria"
 
 # Appearance settings
 theme = 'auto'
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Servus!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+Stay tuned ... More information to come ...
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+#homeCollectionTitle = 'Posts'
+#homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -36,30 +35,30 @@ listDateFormat = '2 Jan 2006'
 breadcrumbs = true
 
 # Social icons
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+#[[params.social]]
+#name = "linkedin"
+#url = "https://www.linkedin.com/in/user/"
 
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+#[[params.social]]
+#name = "medium"
+#url = "https://medium.com/@user"
 
-[[params.social]]
-name = "github"
-url = "https://github.com/user"
+#[[params.social]]
+#name = "github"
+#url = "https://github.com/user"
 
 # Main menu pages
 [[params.menu]]
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+#name = "posts"
+#url = "/posts"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+#[[params.menu]]
+#name = "about"
+#url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
