@@ -1,4 +1,4 @@
-baseURL = 'fascinating-peony-9f7402.netlify.app'
+baseURL = 'https://fascinating-peony-9f7402.netlify.app'
 languageCode = 'de-de'
 title = 'My website'
 theme = 'typo'
