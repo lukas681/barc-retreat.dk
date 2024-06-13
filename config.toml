@@ -23,11 +23,11 @@ homeIntroContent = """
 
 # Schedule
 
-|         |          | Monday | Tuesday | Wednesday | Thursday | Friday |
-|         |----------|--------|---------|-----------|----------|--------|
-| 8 - 13  |          |        |         |           |          |        |
-| 13 - 17 |          |    |         |           |          |        |
-| 17 - 00 |          |     |         |           |          |        |
+|         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
+|---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
+| 8 - 13  |          | Arrival, Check-In  | Breakfast + FOCS Proceedings (1/2) |  Grimmler Wasserfälle        | Free, Time for packing |
+| 13 - 17 | (Travel) | (Workshop?), SPA   | Hiking@Nordkette                   |  Grimmler Wasserfälle        |  (Travel)              |
+| 17 - 00 | (Travel) | Dinner at TBD, SPA | Evening Dinner in the Hotel + SPA  | Tyroler Evening incl. Dining |                        |
 
 
 # Travel Information
@@ -40,6 +40,8 @@ homeIntroContent = """
 
 We are going to stay in (https://dasmei.at/en/4-verwoehnhotel-nahe-innsbruck-english-2/)[DasMEI] in Innsbruck.
 The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
+It has a very nice SPA area and breakfast is served at xxxx.
+Brea
 
 """
 
