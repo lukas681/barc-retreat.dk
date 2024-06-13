@@ -20,14 +20,16 @@ theme = 'auto'
 homeIntroTitle = 'Servus!'
 homeIntroContent = """
 
-# General Information
-
 
 # Schedule
 
+# Travel Information
 
+# The Hotel
 
-Stay tuned ... More information to come ...
+We are going to stay in (https://dasmei.at/en/4-verwoehnhotel-nahe-innsbruck-english-2/)[DasMEI] in Innsbruck.
+The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
+
 """
 
 # Collection to display on home
