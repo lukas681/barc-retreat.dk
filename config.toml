@@ -19,6 +19,14 @@ theme = 'auto'
 # Intro on main page, content is markdown
 homeIntroTitle = 'Servus!'
 homeIntroContent = """
+
+# General Information
+
+
+# Schedule
+
+
+
 Stay tuned ... More information to come ...
 """
 
