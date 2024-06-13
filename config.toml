@@ -1,6 +1,6 @@
 baseURL = 'https://fascinating-peony-9f7402.netlify.app'
 languageCode = 'de-de'
-title = 'BARC Retreat'
+title = 'BARC Retreat 2024'
 theme = 'typo'
 
 [taxonomies]
