@@ -19,31 +19,31 @@ theme = 'auto'
 # Intro on main page, content is markdown
 homeIntroTitle = 'Servus!'
 homeIntroContent = """
-This page summarized some information for our Retreat in Austria! 
 
-# Schedule
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
 | **Morning** |          | Arrival, Check-In  | Breakfast + FOCS Proceedings (1/2) |  FOCS Proceedings (2/2) + Bus Trip       | Free Time, Check-out |
-| **Afternoon** | (Travel) | (Workshop?), SPA   | Hiking@Nordkette                   |  Grimmler Wasserfälle        |  (Travel)              |
-| **Evening** | (Travel) | Dinner at TBD, SPA | Evening Dinner in the Hotel + SPA  | Tyroler Evening incl. Dining |                        |
+| **Afternoon** | (Travel) | (Workshop?), SPA   | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>                   |  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |  (Travel)              |
+| **Evening** | (Travel) | Dinner at TBD, SPA | Evening Dinner in the Hotel + SPA  | <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening + Dining</a> |                        |
 
 
 # Travel Information
 
-* IMPORTANT!! **Journey Back must be booked individually, because some people might stay a bit longer**
+* IMPORTANT!! **Journey Back must be booked individually, because some people might stay a bit longer**. If you like to to take the night train back, you can book it here: <a href="https://www.nightjet.com/en/#/home" title="ÖBB Nightjet">ÖBB Nightjet</a>.
 * We booked the Night Train from Hamburg to Innsbruck for those 16 people that have signed-up
-* We will take  this connection: Hamburg HBF -> Innsbruck HBF // 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
+* We will take  this connection:  **Hamburg HBF -> Innsbruck HBF**, 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
 
-# The Hotel
+# Hotel
 
-* We are going to stay in ![https://dasmeiat](DasMEI****) in Innsbruck.
-The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
-It has a very nice SPA area and breakfast is served at xxxx.
-* Breakfast: 7:30am - 10:30am
-* SPA Opening: 4pm bis 9pm
+* We are going to stay in <a href="https://dasmei.at" title="Das MEI">DasMEI****</a> in Innsbruck. 
+* The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
+* We will have a a private conference room, where we can hold our proceedings session
 
+* **Breakfast**: 7:30am - 10:30am
+* **SPA Opening**: 4pm bis 9pm. But respect the SPA Etiquette in Austria / Germany.
+
+<img src="Mountain.png" alt="Girl in a jacket">
 
 """
 # Add emergency contacts
@@ -88,8 +88,11 @@ url = "/"
 
 # Syntax highligth on code blocks
 [markup]
-[markup.highlight]
-style = 'algol'
+    [markup.highlight]
+     style = 'algol'
+ [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Giscus comments
 [params.giscus]

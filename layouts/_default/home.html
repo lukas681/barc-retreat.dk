@@ -11,7 +11,7 @@
     {{ end }}
 
     {{ with .Site.Params.homeIntroContent }}
-    <p>{{ . | markdownify }}</p>
+    <p>{{ .  |markdownify |safeHTML }}</p>
     {{ end }}
 </div>
 {{ end }}
