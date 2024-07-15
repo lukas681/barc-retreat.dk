@@ -23,8 +23,8 @@ homeIntroContent = """
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
-| **Morning** |          | Check-in 🏨 /  _Workshop I_📖 |  _WoSh III: FOCS_ 📖 |         | Check-out 🏨  |
-| **Afternoon** | 🚃 | _Workshop II_ 📖    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |               |
+| **Morning** |          | Check-in 🏨 /  Workshop I📖 |  WoSh III: FOCS 📖 |         | Check-out 🏨  |
+| **Afternoon** | 🚃 | Workshop II 📖    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |               |
 | **Evening** | 🚃 | Dinner in [TBA] 🍽️| <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at the hotel Bar 🍻 |                        |
 
 
@@ -37,7 +37,7 @@ _(For night-train enthusiasts only!)_
 
 **13:26 - 18:06**: Trip to Hamburg HBF (Central Station).
 
-**18:06 - 20:10**: Finding some Food at Hamburg Central Station.
+**18:06 - 20:10**: Finding some food at Hamburg Central Station.
 
 **Departing at 20:10**: Night-Train.
 
@@ -46,41 +46,43 @@ _The Scientific Day_
 
 **09:30**: Arrival in Innsbruck HBF.
 
-**09:30 - 10:30**: Starting the day with a coffee.
+**09:30 - 10:30**: Starting the day with a coffee at <a href="https://www.cafe-momo.at/">Cafe Momo</a>.
 
-**10:30 - 11:00**: Transfer to our Hotel.
+**10:30 - 11:00**: Transfer to our <a href="https://dasmei.at" title="Das MEI">hotel</a>. Not all rooms migh be available by the time of arrival, but we get a room to store our luggage.
 
-**11:00 - 12:00**: _Scientific Session I by [TBD]_.
+**11:00 - 12:00**: _Scientific Session I by [Rasmus]_.
 
-**12:00 - 13:00**: Lunchbreak (Traditional _Schnitzel_ has already been preordered for the non vegetarians and for our vegetarians I was told tha: "Our second kitchen-chef can provide delicous veggy asian food").
+**12:00 - 13:00**: Lunchbreak at our hotel. 
+Traditional _Wiener Schnitzel_ has already been preordered for the non vegetarians and for our vegetarians I was told that "[their] second kitchen-chef can provide delicous veggy asian food".
 
 **13:30 - 15:00**: _Scientific Session II by [Amir]_.
 
 **15:00 - 17:30**: Official check-in (SPA opens 16:00).
 
-**From 18:00**: Dinner at [TBD]. Maybe a bar in the center.
+**From 18:00**: Dinner at [TBD]. Maybe some bar.
 
 ### Wednesday, Oct 16th
 _The Hiking Day_
 
 **07:00 - 09:30**: Breakfast at the hotel.
 
-**09:30 - 11:30**: _Scientific Session III: **FOCS Proceedings** by Mikkel T_:
+**09:30 - 11:30**: _Scientific Session III: **FOCS Proceedings** by Mikkel T_. 
+Accepted papers <a href="https://focs.computer.org/2024/accepted-papers-for-focs-2024/">here</a>
 
-**11:30 - 13:00**: Transfer to Nordkettenbahn, Take a gondola.
+**11:30 - 13:00**: Transfer to <a href="https://nordkette.com/">Nordkettenbahn</a>, taking the gondola up together. _As october has very unstable weather condition: Make sure to bring good clothes._
 
-**13:00 - 14:00**: Restaurant on top of the mountain.
+**13:00 - 14:00**: Restaurant <a href="https://seegrube.at/">Seegrube</a> on top of the mountain.
 
-**14:00 - 19:00**: Free, our suggestion: take a longer hike (some gpx's being posted later on)
+**14:00 - 19:00**: Free, our suggestion: take a longer hike (some gpx tours being posted later on here)
 
-**20:00 - 22:00** Tiroler evening incl. transfer from our hotel.
+**20:00 - 22:00** <a href="https://www.tiroler-abend.com/">Tiroler Abend</a> (Tyrolian Evening), Shuttlebus picking us up from the hotel.
 
 ### Thursday, Oct 17th
 _The "Trip-To-Grimml-Day"_
 
 **07:00 - 09:30**: Breakfast at our hotel - for later: madpakke / lunchbox to-go
 
-**09:45 - 20:00**: Daytrip to Grimmler Wasserfälle: We will visit some very famous waterfalls, called <a href="https://www.wasserfaelle-krimml.at/">Die Grimmler Wasserfälle</a>. 
+**09:45 - 20:00**: Daytrip. We will visit some very famous waterfalls, called <a href="https://www.wasserfaelle-krimml.at/">Die Grimmler Wasserfälle</a>. 
 After an approximately 2h panorama sightseening tour through austria, we will have some hours to hike around the waterfalls.
 
 **From 20:00**: Free-Time & some drinks at our hotel.
@@ -90,7 +92,6 @@ After an approximately 2h panorama sightseening tour through austria, we will ha
 **07:00 - 10:00**: Breakfast at our Hotel.
 
 **10:00 - 11:00**: short feedback session and check-out.
-
 
 # Travel Information
 
