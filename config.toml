@@ -23,9 +23,63 @@ homeIntroContent = """
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
-| **Morning** |          | Arrival, Check-In  | Breakfast + FOCS Proceedings (1/2) |  FOCS Proceedings (2/2) + Bus Trip       | Free Time, Check-out |
-| **Afternoon** | (Travel) | (Workshop?), SPA   | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>                   |  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |  (Travel)              |
-| **Evening** | (Travel) | Dinner at TBD, SPA | Evening Dinner in the Hotel + SPA  | <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening + Dining</a> |                        |
+| **Morning** |          | Check-In  | FOCS Proceedings 📖 |         | Check-Out & Feedback |
+| **Afternoon** | 🚃 | Workshop I & Lunch@DasMEI &  SPA   | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |               |
+| **Evening** | 🚃 | Workshop II & Dinner at | <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at Hotel Bar |                        |
+
+
+## Detailed Plan
+
+(Still Preliminary!)
+### Monday (For the Night-Train Enthusiasts only)
+
+**13:26 - 18:06**: Trip to Hamburg
+**18:06 - 20:10**: Finding some Food at Hamburg Central Station
+**20:10 - **: Night-Train
+
+### Tuesday
+**09:30**: Arrival in Innsbruck
+
+**09:30 - 10:30**: Starting the day in a cafe
+
+**10:30 - 11:00**: Transfer to our Hotel
+
+**11:00 - 12:00**: _Scientific Session I by [TBD]:_
+
+**12:00 - 13:00**: Lunchbreak (Schnitzel already preorder for non-Vegetarian)
+
+**13:30 - 15:00**: __Scientific Session II by [Amir]__
+
+**15:00 - 17:30**: Official Check-In, SPA opens 16:00
+
+**From 18:00**: Dinner at [TBD]. Maybe going to some bar in the city afterward.
+
+### Wednesday
+**07:00 - 09:30**: Breakfast at the Hotel
+
+**09:30 - 11:30**: __Scientific Session III: **FOCS Proceedings** by Mikkel T__
+
+**11:30 - 13:00**: Transfer to Nordkettenbahn, Taking Gondola up.
+
+**13:00 - 14:00**: Restaurant on top of the Mountain
+
+**14:00 - 19:00**: Free, Suggestion: Take a longer Hike
+
+**20:00 - 22:00** Tiroler Evening incl. Transfer from our hotel
+
+### Thursday
+
+**07:00 - 09:30**: Breakfast at our Hotel
+
+**09:45 - 20:00**: Daytrip to Grimmler Wasserfälle.  
+
+**From 20:00**: Free-Time + Drinks at our Hotel
+
+### Friday
+
+**07:00 - 10:00**: Breakfast at our Hotel
+
+**10:00 - 11:00**: Small Feedback Round + Check-Out 
 
 
 # Travel Information
@@ -34,12 +88,13 @@ homeIntroContent = """
 * We booked the Night Train from Hamburg to Innsbruck for those 16 people that have signed-up
 * We will take  this connection:  **Hamburg HBF -> Innsbruck HBF**, 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
 
-# Hotel
+## Hotel
 
 * We are going to stay in <a href="https://dasmei.at" title="Das MEI">DasMEI****</a> in Innsbruck. 
 * The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
 * We will have a a private conference room, where we can hold our proceedings session
 
+* **Check-In Tuesday**: from 15:00 - **Check-Out Friday**: Until 11:00 
 * **Breakfast**: 7:30am - 10:30am
 * **SPA Opening**: 4pm bis 9pm. But respect the SPA Etiquette in Austria / Germany.
 
