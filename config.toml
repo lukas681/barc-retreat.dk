@@ -1,5 +1,5 @@
 baseURL = 'https://fascinating-peony-9f7402.netlify.app'
-languageCode = 'de-de'
+languageCode = 'en-us'
 title = 'BARC Retreat 2024'
 theme = 'typo'
 
@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "Planning our Retreat in Austria"
+description = "BARC Retreat "
 
 # Appearance settings
 theme = 'auto'
@@ -23,72 +23,82 @@ homeIntroContent = """
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
-| **Morning** |          | Check-In  | FOCS Proceedings 📖 |         | Check-Out & Feedback |
-| **Afternoon** | 🚃 | Workshop I & Lunch@DasMEI &  SPA   | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |               |
-| **Evening** | 🚃 | Workshop II & Dinner at | <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at Hotel Bar |                        |
+| **Morning** |          | Check-in 🏨 | _WoSh III: FOCS_ 📖 |         | Check-out 🏨  |
+| **Afternoon** | 🚃 | _Workshop I_ & Lunch 🏨    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Grimmler Waterfalls</a>        |               |
+| **Evening** | 🚃 | _Workshop II_ & Dinner at | <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at Hotel Bar |                        |
 
 
 ## Detailed Plan
 
-(Still Preliminary!)
-### Monday (For the Night-Train Enthusiasts only)
+**(Still Preliminary!)**
 
-**13:26 - 18:06**: Trip to Hamburg
-**18:06 - 20:10**: Finding some Food at Hamburg Central Station
-**20:10 - **: Night-Train
+### Monday, Oct 14th
+_(For night-train enthusiasts only!)_
 
-### Tuesday
-**09:30**: Arrival in Innsbruck
+**13:26 - 18:06**: Trip to Hamburg HBF (Central Station).
 
-**09:30 - 10:30**: Starting the day in a cafe
+**18:06 - 20:10**: Finding some Food at Hamburg Central Station.
 
-**10:30 - 11:00**: Transfer to our Hotel
+**Departing at 20:10**: Night-Train.
 
-**11:00 - 12:00**: _Scientific Session I by [TBD]:_
+### Tuesday, Oct 15th
+_The Scientific Day_
 
-**12:00 - 13:00**: Lunchbreak (Schnitzel already preorder for non-Vegetarian)
+**09:30**: Arrival in Innsbruck HBF.
 
-**13:30 - 15:00**: __Scientific Session II by [Amir]__
+**09:30 - 10:30**: Starting the day with a coffee.
 
-**15:00 - 17:30**: Official Check-In, SPA opens 16:00
+**10:30 - 11:00**: Transfer to our Hotel.
 
-**From 18:00**: Dinner at [TBD]. Maybe going to some bar in the city afterward.
+**11:00 - 12:00**: _Scientific Session I by [TBD]_.
 
-### Wednesday
-**07:00 - 09:30**: Breakfast at the Hotel
+**12:00 - 13:00**: Lunchbreak (Traditional _Schnitzel_ has already been preordered for the non vegetarians and for our vegetarians I was told tha: "Our second kitchen-chef can provide delicous veggy asian food").
 
-**09:30 - 11:30**: __Scientific Session III: **FOCS Proceedings** by Mikkel T__
+**13:30 - 15:00**: _Scientific Session II by [Amir]_.
 
-**11:30 - 13:00**: Transfer to Nordkettenbahn, Taking Gondola up.
+**15:00 - 17:30**: Official check-in (SPA opens 16:00).
 
-**13:00 - 14:00**: Restaurant on top of the Mountain
+**From 18:00**: Dinner at [TBD]. Maybe a bar in the center.
 
-**14:00 - 19:00**: Free, Suggestion: Take a longer Hike
+### Wednesday, Oct 16th
+_The Hiking Day_
 
-**20:00 - 22:00** Tiroler Evening incl. Transfer from our hotel
+**07:00 - 09:30**: Breakfast at the hotel.
 
-### Thursday
+**09:30 - 11:30**: _Scientific Session III: **FOCS Proceedings** by Mikkel T_:
 
-**07:00 - 09:30**: Breakfast at our Hotel
+**11:30 - 13:00**: Transfer to Nordkettenbahn, Take a gondola.
 
-**09:45 - 20:00**: Daytrip to Grimmler Wasserfälle.  
+**13:00 - 14:00**: Restaurant on top of the Mountain.
 
-**From 20:00**: Free-Time + Drinks at our Hotel
+**14:00 - 19:00**: Free, our suggestion: take a longer hike (some gpx's being posted later on)
 
-### Friday
+**20:00 - 22:00** Tiroler evening incl. transfer from our hotel.
 
-**07:00 - 10:00**: Breakfast at our Hotel
+### Thursday, Oct 17th
+_The "Trip-To-Grimml-Day"_
 
-**10:00 - 11:00**: Small Feedback Round + Check-Out 
+**07:00 - 09:30**: Breakfast at our hotel - for later: madpakke / lunchbox to-go
+
+**09:45 - 20:00**: Daytrip to Grimmler Wasserfälle: We will visit some very famous waterfalls, called <a href="https://www.wasserfaelle-krimml.at/">Die Grimmler Wasserfälle</a>. 
+After an approximately 2h panorama sightseening tour through austria, we will have some hours to hike around the waterfalls.
+
+**From 20:00**: Free-Time & some drinks at our hotel.
+
+### Friday, Oct 18th
+
+**07:00 - 10:00**: Breakfast at our Hotel.
+
+**10:00 - 11:00**: short feedback session and check-out.
 
 
 # Travel Information
 
-* IMPORTANT!! **Journey Back must be booked individually, because some people might stay a bit longer**. If you like to to take the night train back, you can book it here: <a href="https://www.nightjet.com/en/#/home" title="ÖBB Nightjet">ÖBB Nightjet</a>.
+* **Journey Back must be booked individually, because some people might stay a bit longer**. If you like to to take the night train back, you can book it here: <a href="https://www.nightjet.com/en/#/home" title="ÖBB Nightjet">ÖBB Nightjet</a>.
 * We booked the Night Train from Hamburg to Innsbruck for those 16 people that have signed-up
-* We will take  this connection:  **Hamburg HBF -> Innsbruck HBF**, 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
+* We will take this connection:  **Copenhagen Hovedbanegården --> Hamburg HBF -> Innsbruck HBF**, 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
 
-## Hotel
+## Our Hotel
 
 * We are going to stay in <a href="https://dasmei.at" title="Das MEI">DasMEI****</a> in Innsbruck. 
 * The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
@@ -100,6 +110,13 @@ homeIntroContent = """
 
 <img src="Mountain.png" alt="Girl in a jacket">
 
+         o o o o o o o . . .   _____________________ _____=====_||____
+       o      _____           ||                   | |               |
+     .][__n_n_|DD[  ====_____  |                   | |               |
+    >(________|__|_[_________]_|___________________|_|_______________|
+    _/oo OOOOO oo`  ooo   ooo  'o!o!o         o!o!o` 'o!o       o!o`
+    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+            
 """
 # Add emergency contacts
 
