@@ -20,18 +20,16 @@ theme = 'auto'
 homeIntroTitle = 'Servus!'
 homeIntroContent = """
 
-_Last Updated: 15th July 2024_
+_Last Updated: 20th Sep 2024_
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
 | **Morning** |          | Check-in 🏨 /  Workshop I📖 |  WoSh III: FOCS 📖 |         | Check-out 🏨  |
 | **Afternoon** | 🚃 | Workshop II 📖    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Krimmler Waterfalls</a>        |               |
-| **Evening** | 🚃 | Dinner in [TBA] 🍽️| <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at the hotel Bar 🍻 |                        |
+| **Evening** | 🚃 | Dinner @DasMEI 🍽️| <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at the hotel Bar 🍻 |                        |
 
 
 ## Detailed Plan
-
-**(Still Preliminary!)**
 
 ### Monday, Oct 14th
 _(For night-train enthusiasts only!)_
@@ -70,7 +68,8 @@ _The Hiking Day_
 **09:30 - 11:30**: _Scientific Session III: **FOCS Proceedings** by Mikkel T feat. a talk by Tuukka!_
 Accepted papers <a href="https://focs.computer.org/2024/accepted-papers-for-focs-2024/">here</a>
 
-**11:30 - 13:00**: Transfer to <a href="https://nordkette.com/">Nordkettenbahn</a>, taking the gondola up together. _As october has very unstable weather condition: Make sure to bring good clothes._
+**11:30 - 13:00**: Transfer to <a href="https://nordkette.com/">Nordkettenbahn</a>, taking the gondola up together. 
+_As october has very unstable weather condition: Make sure to bring good clothes._
 
 **13:00 - 14:00**: Restaurant <a href="https://seegrube.at/">Seegrube</a> on top of the mountain.
 
@@ -85,8 +84,8 @@ _The "Trip-To-Krimml-Day"_
 **07:00 - 09:30**: Breakfast at our hotel - for later: madpakke / lunchbox to-go
 
 **09:45 - 20:00**: Daytrip. We will visit some very famous waterfalls, called <a href="https://www.wasserfaelle-krimml.at/">Die Krimmler Wasserfälle</a>. 
-After an approximately 2h panorama sightseening tour through austria, we will have some hours to hike around the waterfalls.
-We will get some lunch at <a href="https://www.schoenmoos-alm.at/en/">Schönmoos Alm</a>. 
+After an approximately 2h panorama sightseening tour through Austria, we will have some hours to hike around the waterfalls.
+We will get some dinner at <a href="https://www.schoenmoos-alm.at/en/">Schönmoos Alm</a>. 
 There's gonna be cheese. 
 A lot of cheese. 🧀🧀🧀
 
