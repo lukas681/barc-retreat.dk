@@ -20,13 +20,46 @@ theme = 'auto'
 homeIntroTitle = 'Servus!'
 homeIntroContent = """
 
-_Last Updated: 24th Sep 2024_
+_Last Updated: 1st Oct 2024_
 
 |         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
 |---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
 | **Morning** |          | Check-in 🏨 /  Workshop I📖 |  WoSh III: FOCS 📖 |         | Check-out 🏨  |
 | **Afternoon** | 🚃 | Workshop II 📖    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Krimmler Waterfalls</a>        |               |
 | **Evening** | 🚃 | Dinner @DasMEI 🍽️| <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at the hotel Bar 🍻 |                        |
+
+<details>
+    <summary style="font-weight: bold">PACKING LIST</summary>
+    <div style="font-style: italic">
+    <ul>
+<li>Valid passport</li>
+<li>Please note that if your passport is issues by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should all be in possession of this visa already.</li>
+<li>Tickets for your return travel (Lukas holds the tickets for the train ride to Innsbruck)</li>
+<li>Driver’s license, student ID</li>
+<li>Travel insurance card (during the retreat KU employees are covered by KU travel insurance) If you are employed elsewhere, please ensure valid travel insurance.</li>
+<li>Backpack for daytrips</li>
+<li>What you need for work: pen & paper, your laptop/tablet incl. charger, either printed or downloaded FOCS abstracts </li>
+<li>Refillable water bottle</li>
+<li>Phone and charger</li>
+<li>Wallet incl. credit cards. If you are holding a KU Master card, please bring it!</li>
+<li>Cash Euros as spending money during the train ride, the layover in Hamburg central station and for tipping as well as paying local tourist fees (only 2 Euro per person). </li>
+<li>Clothes (You know what you need but maybe check the weather forecast for Innsbruck when packing.)</li>
+<li>Lederhosen, if you have…</li>
+<li>Raincoat</li>
+<li>Shirts for dinners (It’s a rather upscale hotel and dressing nicely for the dinners is expected.)  </li>
+<li>Pants suitable for hiking</li>
+<li>Hiking boots and/or trail running shoes</li>
+<li>BARC t-shirts </li>
+<li>Swim wear (we are staying at a SPA hotel)</li>
+<li>Scarves, hat, gloves (for hiking)</li>
+<li>Toiletries and medication (if needed)</li>
+<li>Sunglasses (and sunscreen for hiking)</li>
+<li>Books/e-books/magazines of your choice for the train ride or spare time</li>
+<li>Headphones</li>
+<li>If you have one, you might consider bringing: a travel sized card or board game, a Bluetooth speaker (incl. charger)</li>
+</ul>
+    </div>
+</details>
 
 
 ## Detailed Plan
@@ -51,7 +84,7 @@ _The Scientific Day_
 
 **11:00 - 12:00**: _Scientific Session I hosted by Rasmus_ 
 <details>
-    <summary>How to Pitch Your Research</summary>
+    <summary style="font-weight: bold">How to Pitch Your Research</summary>
     <div style="font-style: italic">An important part of academic training is learning to communicate effectively to other researchers in the peer community. However, sometimes you need to communicate to someone outside of the peer community, for example: writing a grant application, talking to a journalist, or explaining your research to a potential employer/collaborator with a different educational background. We will discuss some common pitfalls in such endeavors and talk about how you may practice pitching your research by using a large language model. Finally, we work in small groups on concrete case studies.</div>
 </details>
 
@@ -62,7 +95,7 @@ Traditional _Wiener Schnitzel_ has already been preordered for the non vegetaria
 
 **13:45 - 15:00**: _Scientific Session II hosted by Amir_.
 <details>
-    <summary>TBD</summary>
+    <summary style="font-weight: bold; text-decoration: green wavy underline">(Title & Content TBD)</summary>
     <div> Something involving mathematics... </div>
 </details>
 
