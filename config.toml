@@ -17,20 +17,15 @@ description = "BARC Retreat "
 theme = 'auto'
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Servus!'
+homeIntroTitle = 'Mojn!'
+
 homeIntroContent = """
 
-_Last Updated: 21st Oct 2024_
+_Last Updated: 1st Sep 2025_
+"""
 
-<p style="font-size:30px; font-weight: bold">Looking forward to the next retreat!!</p>
-<hr>
+homeContent = """
 
-
-|         | Monday   | Tuesday            | Wednesday                          | Thursday                     | Friday                 |
-|---------|----------|--------------------|------------------------------------|------------------------------|------------------------|
-| **Morning** |          | Check-in 🏨 /  Workshop I📖 |  WoSh III: FOCS 📖 |         | Check-out 🏨  |
-| **Afternoon** | 🚃 | Workshop II 📖    | Hiking@<a href="https://nordkette.com/en/">Nordkette</a>🚡                   | Day Trip:  <a href="https://www.wasserfaelle-krimml.at/">Krimmler Waterfalls</a>        |               |
-| **Evening** | 🚃 | Dinner @DasMEI 🍽️| <a href="https://www.tiroler-abend.com/en/" title="Tiroler Abend">Tyroler Evening & Dining</a> 🇦🇹  | Drinks at the hotel Bar 🍻 |                        |
 
 ### Packing List ❤️
 We have put together a packing list for you:
@@ -38,142 +33,117 @@ We have put together a packing list for you:
     <summary style="font-weight: bold">PACKING LIST</summary>
     <div style="font-style: italic">
     <ul>
-<li>Valid passport</li>
-<li>Please note that if your passport is issues by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should all be in possession of this visa already.</li>
-<li>Tickets for your return travel (Lukas holds the tickets for the train ride to Innsbruck)</li>
-<li>Driver’s license, student ID</li>
-<li>Travel insurance card (during the retreat KU employees are covered by KU travel insurance) If you are employed elsewhere, please ensure valid travel insurance.</li>
+<li>Valid passport (on the boat trips we pass into German waters and a passport is mandatory to bring)<br>
+Please note that if your passport is issued by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should have this visa already, so don’t worry, just remember to bring it.</li>
 <li>Backpack for daytrips</li>
-<li>What you need for work: pen & paper, your laptop/tablet incl. charger, either printed or downloaded FOCS abstracts </li>
+<li>What you need for work: pen & paper, your laptop/tablet incl. charger, either printed or downloaded FOCS 2025 abstracts</li>
 <li>Refillable water bottle</li>
 <li>Phone and charger</li>
-<li>Wallet incl. credit cards. If you are holding a KU Master card, please bring it!</li>
-<li>Cash Euros as spending money during the train ride, the layover in Hamburg central station and for tipping as well as paying local tourist fees (only 2 Euro per person). </li>
-<li>Clothes (You know what you need but maybe check the weather forecast for Innsbruck when packing.)</li>
-<li>Lederhosen, if you have…</li>
-<li>Raincoat</li>
-<li>Shirts for dinners (It’s a rather upscale hotel and dressing nicely for the dinners is expected.)  </li>
-<li>Pants suitable for hiking</li>
-<li>Hiking boots and/or trail running shoes</li>
-<li>BARC t-shirts </li>
-<li>Swim wear (we are staying at a SPA hotel)</li>
-<li>Scarves, hat, gloves (for hiking)</li>
-<li>Toiletries and medication (if needed)</li>
-<li>Sunglasses (and sunscreen for hiking)</li>
-<li>Books/e-books/magazines of your choice for the train ride or spare time</li>
-<li>Headphones</li>
-<li>If you have one, you might consider bringing: a travel sized card or board game, a Bluetooth speaker (incl. charger)</li>
+<li>Wallet. If you are holding a KU Master card, please bring it!</li>
+<li>Your best lasagna recipe</li>
+<li>Clothes (You know what you need but maybe check the weather forecast for Rømø when packing.)</li>
+<li>Raincoat/wind proof jacket</li>
+<li>Swim wear and a towel for the beach (you cannot take hotel towels to the beach!)</li>
+<li>Scarf, hat (might get chilly on the boat rides)</li>
+<li>Toiletries and medication (as needed)</li>
+<li>Binoculars (if you have)</li>
+<li>Your favorite BARC shirts</li>
+<li>Table tennis bat (if you suffer from this inclination)</li>
 </ul>
-    </div>
+</div>
 </details>
 
+## Plan for the houses
+<div class="house-plan">
+<table>
+  <thead>
+    <tr>
+      <th>The Party House</th>
+      <th>House 2</th>
+      <th>House 3</th>
+      <th>House 4</th>
+      <th>House 5</th>
+      <th>House 6</th>
+      <th>House 7</th>
+      <th>House 8</th>
+      <th>House 9</th>
+      <th>House 10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jacob Imola</td>
+      <td>Hanzhi</td>
+      <td>Mikkel Thorup</td>
+      <td>Yassine</td>
+      <td>Benjamin</td>
+      <td>Prateek</td>
+      <td>Florestan</td>
+      <td>Hanwen</td>
+      <td>Mikkel Abrahamsen</td>
+      <td>Jacob Holm</td>
+    </tr>
+    <tr>
+      <td>Mads</td>
+      <td>Sia</td>
+      <td>Rasmus</td>
+      <td>Sophus</td>
+      <td>Amik</td>
+      <td>Tuukka</td>
+      <td>Egor</td>
+      <td>Shuyi</td>
+      <td>Amir</td>
+      <td>Stephen</td>
+    </tr>
+    <tr>
+      <td>Ian</td>
+      <td>Deborah</td>
+      <td>Thore</td>
+      <td>Christian</td>
+      <td>Jack</td>
+      <td>Srikant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Anne</td>
+      <td>Anders</td>
+      <td>Duri</td>
+      <td>Théo</td>
+      <td>Nutan</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-## Detailed Plan
+* The Party House will be the gathering point for social activities in the evenings.
+* Every house has two bedrooms with each two beds. 
+* In houses 2 – 6 two people share a room.
+* In houses 7 – 10 each person has a room to themself.
 
-### Monday, Oct 14th
-_(For night-train enthusiasts only!)_
+<div></div>
 
-**13:14 - 18:06**: Trip to Hamburg HBF (Central Station), Train EC397
-
-**18:06 - 20:10**: Finding some food at Hamburg Central Station.
-
-**Departing at 20:10**: Night-Train.
-
-### Tuesday, Oct 15th
-_The Scientific Day_
-
-**09:15**: Arrival in Innsbruck HBF.
-
-**09:30 - 10:30**: Starting the day with a coffee at <a href="https://www.wilten-ibk.at/">Cafe Wilten</a>. Don't overeat! Schnitzel in 2h!
-
-**10:30 - 10:50**: Transfer to our <a href="https://dasmei.at" title="Das MEI">hotel</a>. Not all rooms migh be available by the time of arrival, but we get a room to store our luggage.
-
-**11:00 - 12:00**: _Scientific Session I hosted by Rasmus_. Slides here: <a href="pitch.pdf">Slides</a> 
-<details>
-    <summary style="font-weight: bold">How to Pitch Your Research</summary>
-    <div style="font-style: italic">An important part of academic training is learning to communicate effectively to other researchers in the peer community. However, sometimes you need to communicate to someone outside of the peer community, for example: writing a grant application, talking to a journalist, or explaining your research to a potential employer/collaborator with a different educational background. We will discuss some common pitfalls in such endeavors and talk about how you may practice pitching your research by using a large language model. Finally, we work in small groups on concrete case studies.</div>
-</details>
-
-**12:00 - 13:00**: Lunchbreak at our hotel. 
-Traditional _Wiener Schnitzel_ has already been preordered for the non vegetarians and for our vegetarians I was told that "[their] second kitchen-chef can provide delicous veggy asian food".
-
-**13:30 - 13:45**: _Anne_.
-
-**13:45 - 15:00**: _Scientific Session II hosted by Amir_.
-<details>
-    <summary style="font-weight: bold; text-decoration: green wavy underline">Definitions.</summary>
-    <div> Something about... definitions? Ask Amir ...</div>
-</details>
-
-**15:00 - 17:30**: Official check-in (SPA opens 16:00).
-
-**From 18:00**: Dinner at our hotel.
-
-### Wednesday, Oct 16th
-_The Hiking Day_
-
-**07:00 - 09:30**: Breakfast at the hotel.
-
-**09:30 - 11:45**: _Scientific Session III: **FOCS Proceedings** by Mikkel T feat. a talk by Tuukka!_
-Accepted papers <a href="https://focs.computer.org/2024/accepted-papers-for-focs-2024/">here</a>
-
-**12:30 - 13:00**: Transfer to <a href="https://nordkette.com/">Nordkettenbahn</a>, taking the gondola up together. 
-_As october has very unstable weather condition: Make sure to bring good clothes._
-
-**13:30 - 14:30**: Restaurant <a href="https://seegrube.at/">Seegrube</a> at the middle station. We will then take the cable car further up to the famous Götheweg which we might start a bit in one direction. 
-Some tour idea (which we might only do partially due to timeconstraints): <a href="hike-sketch.gpx">tour</a> 
-
-**14:30 - 19:00**: Free time + Hiking
-
-**19:45 - 22:00** <a href="https://www.tiroler-abend.com/">Tiroler Abend</a> (Tyrolian Evening), Shuttlebus picking us up from the hotel at 19:45.
-Besides a crash course in alpine culture, we will get a traditional three course menu.
-
-### Thursday, Oct 17th
-_The "Trip-To-Krimml-Day"_
-
-**07:00 - 09:30**: Breakfast at our hotel - for later: madpakke / lunchbox to-go. Dress for an active day and according to the weather. 
-
-**09:45 - 20:00**: Daytrip. We will visit some very famous waterfalls, called <a href="https://www.wasserfaelle-krimml.at/">Die Krimmler Wasserfälle</a>. 
-After an approximately 2h panorama sightseening tour through Austria, we will have some hours to hike around the waterfalls.
-We will get some dinner at <a href="https://www.schoenmoos-alm.at/en/">Schönmoos Alm</a> at 17:00.
-There's gonna be cheese. 
-A lot of cheese. 🧀🧀🧀
-
-**From 20:00**: Free-Time & some drinks at our hotel.
-
-### Friday, Oct 18th
-
-**07:00 - 10:00**: Breakfast at our Hotel.
-
-**10:00 - 11:00**: Short feedback session and check-out.
-
-# Travel Information
-
-* **Journey Back must be booked individually, because some people might stay a bit longer**. If you like to to take the night train back, you can book it here: <a href="https://www.nightjet.com/en/#/home" title="ÖBB Nightjet">ÖBB Nightjet</a>.
-* We booked the Night Train from Hamburg to Innsbruck for those 16 people that have signed-up
-* We will take this connection:  **Copenhagen Hovedbanegården --> Hamburg HBF -> Innsbruck HBF**, 14/10/2024 at 8:10pm – Arrival on 15/10/2024 at 9:14am
-
-## Our Hotel
-
-* We are going to stay in <a href="https://dasmei.at" title="Das MEI">DasMEI****</a> in Innsbruck. 
-* The adress is _Hotel dasMEI****_, Natterer Str. 20-22, 6162 Mutters | Austria
-* We will have a a private conference room, where we can hold our proceedings session
-
-* **Check-In Tuesday**: from 15:00 - **Check-Out Friday**: Until 11:00 
-* **Breakfast**: 07:30 - 10:30
-* **SPA Opening**: 16:00 bis 21:00. Please respect the <a href="https://allabouttirol.com/nude-sauna-guide-austria/" title="Etiqeutte">sauna etiquette</a> in Austria. 
-Nudity is expected **inside** the sauna, but you will get a bathrope for the common areas.  
-
-<img src="Mountain.png" alt="Girl in a jacket">
-
-         o o o o o o o . . .   _____________________ _____=====_||____
-       o      _____           ||                   | |               |
-     .][__n_n_|DD[  ====_____  |                   | |               |
-    >(________|__|_[_________]_|___________________|_|_______________|
-    _/oo OOOOO oo`  ooo   ooo  'o!o!o         o!o!o` 'o!o       o!o`
-    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--+-+-+-+-+-+-+-+-+-+-+-+-+-+-
-            
+    .-------------------------------------------------------------.
+    '------..-------------..----------..----------..----------..--.|
+    |       \\            ||          ||          ||          ||  ||
+    |        \\           ||          ||          ||          ||  ||
+    |    ..   ||  _    _  ||    _   _ || _    _   ||    _    _||  ||
+    |    ||   || //   //  ||   //  // ||//   //   ||   //   //|| /||
+    |_.------"''----------''----------''----------''----------''--'|
+    |)|      |       |       |       |    |      mga|      ||==|  |
+    | |      |  _-_  |       |       |    |  .-.    |      ||==| C|
+    | |  __  |.'.-.' |   _   |   _   |    |.'.-.'.  |  __  | "__=='
+    '---------'|( )|'----------------------'|( )|'----------""
+                '-'                          '-'
 """
+
 # Add emergency contacts
 
 # Collection to display on home
@@ -187,6 +157,59 @@ listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 breadcrumbs = true
+
+[params.schedule]
+headers = [
+  "Monday, Sept. 22",
+  "Tuesday, Sept. 23",
+  "Wednesday, Sept. 24",
+  "Thursday, Sept. 25",
+  "Friday, Sept. 26"
+]
+rows = [
+  [
+    "<b>Meet</b> in the courtyard of Vibenshuset at 8:30",
+    "<b>Morning dip</b> at the beach with Mads at 7:00 (optional) – meet at reception",
+    "<b>Morning dip</b> at the beach with Mads at 7:00 (optional) – meet at reception",
+    "<b>Morning dip</b> at the beach with Mads at 7:00 (optional) – meet at reception",
+    "<b>Pack up and check out</b>, bring luggage to the reception for storage.<br><i>Leave houses neat and tidy, dishwashers and bins emptied!</i>"
+  ],
+  [
+    "<b>Bus transport</b> (with breakfast) from Vibenshuset to Rømø<br><b>Departure at 9:00</b><br>Arrival at 13:30<br>We will be staying at:<br><i>Enjoy Resorts Rømø<br>Vestergade 31<br>6792 Rømø</i>",
+    "<b>Breakfast</b> available 8:00 – 8:50",
+    "<b>Breakfast</b> available 8:00 – 8:50",
+    "<b>Breakfast</b> available 8:00 – 8:50",
+    "<b>Breakfast</b> available 8:00 – 8:30<br>Departure from reception 8:40 to Havneby (15 min walk)"
+  ],
+  [
+    "<b>Lunch</b> resort restaurant “Diget” 13:30",
+    "<b>Academic Workshop</b> 9:00 – 12:30<br>Coffee break at 10:30<br>Meta discussions in smaller groups, collective presentations before lunch.<br><b>Lunch</b> resort restaurant “Diget” 12:30",
+    "<b>Academic Workshop</b> 9:00 – 12:30<br>Coffee break at 10:30<br>FOCS proceedings<br><b>Lunch</b> resort restaurant “Diget” 12:30",
+    "<b>Academic Workshop</b> 9:00 – 12:00<br>Coffee break at 10:30<br>FOCS proceedings and discussion of new research ideas<br><b>Bus pick-up</b> at hotel reception 12:10, transfer to Lakolk (15 min by chartered bus)<br><b>Lunch</b> at Café Fru Dax 12:30 – 13:30",
+    "<b>Seal Safari</b> by boat at 9:00<br>Bring: Passport (!), windbreaker, warm clothing and binoculars<br>Back approx. 13:15<br>Return to hotel for lunch, 15 min walk<br><b>Quick lunch</b> resort restaurant “Diget” 13:30 – 14:15"
+  ],
+  [
+    "<b>Check-in</b> 14:00 – 15:00",
+    "<b>Exploring the Wadden Sea</b><br>Departure from reception at 13:30<br>Dress according to weather and expect walking for 2-3 hours.",
+    "<b>Recreational time</b><br>Choose between:<br>Pool / wellness area until 16:00<br>Table tennis (at resort)<br>Golf (at own expense)<br>Rent a bike (tandems available!)<br>Walk in the area<br>If you can’t resist: do research",
+    "<b>Cultural sightseeing</b><br>WWII bunker, highest point (19 m) and museum<br>13:30 – 15:30<br>Arrival back at resort approx. 15:45",
+    "Retrieve your luggage and <b>board the bus</b> at 14:20"
+  ],
+  [
+    "<b>Free time until dinner</b><br>(Pool and wellness area open extraordinarily until 17:00)",
+    "<b>Black Sun excursion</b> (optional) 17:15 – 20:30<br>(pick-up at hotel)<br>Bring: Passport (!), windbreaker, warm clothing and binoculars",
+    "<b>Cooking contest!</b> Every house must prepare a home-made lasagne to be ready at 19:00 at The Party House. Houses 7&8 as well as 9&10 team up. The Party House prepares dessert!",
+    "<b>Free time until dinner</b>",
+    "<b>Bus transport</b> with snacks and tea/coffee back to Vibenshuset.<br><b>Departure from resort 14:30</b><br>Brief stop at Fredericia approx. 16:15, arrival in Copenhagen approx. 19:30"
+  ],
+  [
+    "<b>Dinner</b> at resort restaurant “Diget” 18:00<br><b>Hygge</b> and board games at the Party House",
+    "<b>Dinner</b> at resort restaurant “Diget” 20:45",
+    "<b>Dinner</b> at The Party House at 19:00<br>Lasagne showdown – which house wins?<br><b>Hygge</b> and board games at the Party House",
+    "<b>Dinner</b> at resort restaurant “Diget” 18:00 – 19:00<br><b>BARC’n’Bowl</b> at hotel 19:00 – 21:00",
+    ""
+  ]
+]
 
 # Social icons
 #[[params.social]]

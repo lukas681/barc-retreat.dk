@@ -139,6 +139,101 @@ hr {
   margin-top: 0;
 }
 
+/* Table */
+.schedule-table-wrapper {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px 16px rgba(75,35,84,0.08);
+  margin: 2rem auto;
+  /* max-width: 1100px; */
+  /* overflow: hidden; */
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: separate; /* must be separate for radius */
+  border-spacing: 0;         /* remove gaps between cells */
+  border-radius: 15px;       /* apply corner radius */
+  overflow: hidden;
+  table-layout: fixed;
+}
+
+.schedule-table th,
+.schedule-table td {
+  width: 20%;
+}
+
+.schedule-table th {
+  background: #424284;
+  color: #fff;
+  padding: 14px 10px;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.schedule-table td {
+  padding: 12px 10px;
+  border: 1px solid #b39ddb;
+  background: #fff;
+  color: #22223b;
+  vertical-align: top;
+
+}
+
+.schedule-table tr:nth-child(even) td {
+  background: #ede7f6;
+}
+
+.schedule-table b, .schedule-table strong {
+  color: #7c43bd;
+}
+
+/* top-left corner */
+.schedule-table th:first-child {
+  border-top-left-radius: 15px;
+  border-left: none;
+  border-top: none;
+}
+
+/* top-right corner */
+.schedule-table th:last-child {
+  border-top-right-radius: 15px;
+  border-right: none;
+  border-top: none;
+}
+
+/* bottom-left corner */
+.schedule-table tr:last-child td:first-child {
+  border-bottom-left-radius: 15px;
+  border-left: none;
+  border-bottom: none;
+}
+
+/* bottom-right corner */
+.schedule-table tr:last-child td:last-child {
+  border-bottom-right-radius: 15px;
+  border-right: none;
+  border-bottom: none;
+}
+
+/* house-plan */
+
+.house-plan table {
+  border-collapse: collapse; 
+  text-align: left;
+  width: 100%;
+}
+.house-plan th,
+.house-plan td {
+  width: 10%;
+  padding: 0.7em 0.7em;
+  font-size: 1.08em;
+}
+
+.house-plan th {
+  white-space: nowrap;
+}
+
 /* Footer */
 
 footer {
