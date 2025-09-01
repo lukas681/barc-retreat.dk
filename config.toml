@@ -1,6 +1,6 @@
 baseURL = 'https://fascinating-peony-9f7402.netlify.app'
 languageCode = 'en-us'
-title = 'BARC Retreat 2024'
+title = 'BARC Retreat 2025'
 theme = 'typo'
 
 [taxonomies]
@@ -22,6 +22,9 @@ homeIntroTitle = 'Mojn!'
 homeIntroContent = """
 
 _Last Updated: 1st Sep 2025_
+
+<b>When</b>: September 22 to 26, 2025 <br>
+<b>Where</b>: Enjoy Resorts Rømø, Denmark 
 """
 
 homeContent = """
@@ -160,11 +163,11 @@ breadcrumbs = true
 
 [params.schedule]
 headers = [
-  "Monday, Sept. 22",
-  "Tuesday, Sept. 23",
-  "Wednesday, Sept. 24",
-  "Thursday, Sept. 25",
-  "Friday, Sept. 26"
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday"
 ]
 rows = [
   [
