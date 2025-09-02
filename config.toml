@@ -23,10 +23,10 @@ homeIntroTitle = """
 homeIntroContent = """
 <img src="BARC-Beach.png" alt="BARC Retreat 2025" />
 
-_Last Updated: 1st Sep 2025_
+_Last Updated: 2nd Sep 2025_
 
 <b>When</b>: September 22 to 26, 2025 <br>
-<b>Where</b>: Enjoy Resorts Rømø, Denmark 
+<b>Where</b>: <a href="https://enjoyresorts.dk/enjoy-resorts-roemoe/">Enjoy Resorts Rømø</a>
 """
 
 homeContent = """
