@@ -17,9 +17,11 @@ description = "BARC Retreat "
 theme = 'auto'
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Mojn!'
+homeIntroTitle = """
+"""
 
 homeIntroContent = """
+<img src="BARC-Beach.png" alt="BARC Retreat 2025" />
 
 _Last Updated: 1st Sep 2025_
 
@@ -29,32 +31,33 @@ _Last Updated: 1st Sep 2025_
 
 homeContent = """
 
-
-### Packing List ❤️
-We have put together a packing list for you:
-<details>
-    <summary style="font-weight: bold">PACKING LIST</summary>
-    <div style="font-style: italic">
-    <ul>
-<li>Valid passport (on the boat trips we pass into German waters and a passport is mandatory to bring)<br>
-Please note that if your passport is issued by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should have this visa already, so don’t worry, just remember to bring it.</li>
-<li>Backpack for daytrips</li>
-<li>What you need for work: pen & paper, your laptop/tablet incl. charger, either printed or downloaded FOCS 2025 abstracts</li>
-<li>Refillable water bottle</li>
-<li>Phone and charger</li>
-<li>Wallet. If you are holding a KU Master card, please bring it!</li>
-<li>Your best lasagna recipe</li>
-<li>Clothes (You know what you need but maybe check the weather forecast for Rømø when packing.)</li>
-<li>Raincoat/wind proof jacket</li>
-<li>Swim wear and a towel for the beach (you cannot take hotel towels to the beach!)</li>
-<li>Scarf, hat (might get chilly on the boat rides)</li>
-<li>Toiletries and medication (as needed)</li>
-<li>Binoculars (if you have)</li>
-<li>Your favorite BARC shirts</li>
-<li>Table tennis bat (if you suffer from this inclination)</li>
-</ul>
+<div class="packing-list">
+    <h3>Packing List ❤️</h3>
+    <p>We have put together a packing list for you:</p>
+    <details>
+        <summary style="font-weight: bold">PACKING LIST</summary>
+        <div style="font-style: italic">
+        <ul>
+        <li>Valid passport (on the boat trips we pass into German waters and a passport is mandatory to bring)<br>
+        Please note that if your passport is issued by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should have this visa already, so don’t worry, just remember to bring it.</li>
+        <li>Backpack for daytrips</li>
+        <li>What you need for work: pen & paper, your laptop/tablet incl. charger, either printed or downloaded FOCS 2025 abstracts</li>
+        <li>Refillable water bottle</li>
+        <li>Phone and charger</li>
+        <li>Wallet. If you are holding a KU Master card, please bring it!</li>
+        <li>Your best lasagna recipe</li>
+        <li>Clothes (You know what you need but maybe check the weather forecast for Rømø when packing.)</li>
+        <li>Raincoat/wind proof jacket</li>
+        <li>Swim wear and a towel for the beach (you cannot take hotel towels to the beach!)</li>
+        <li>Scarf, hat (might get chilly on the boat rides)</li>
+        <li>Toiletries and medication (as needed)</li>
+        <li>Binoculars (if you have)</li>
+        <li>Your favorite BARC shirts</li>
+        <li>Table tennis bat (if you suffer from this inclination)</li>
+        </ul>
+        </div>
+    </details>
 </div>
-</details>
 
 ## Plan for the houses
 <div class="house-plan">
@@ -130,6 +133,7 @@ Please note that if your passport is issued by a non-EU country you must also be
 * Every house has two bedrooms with each two beds. 
 * In houses 2 – 6 two people share a room.
 * In houses 7 – 10 each person has a room to themself.
+
 
 <div></div>
 

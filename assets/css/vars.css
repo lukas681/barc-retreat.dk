@@ -40,7 +40,7 @@
 
     /* Code */
     --code-padding: 1.5rem;
-    --code-border-radius: 10px;
+    --code-border-radius: 12px;
 
     /* Social section */
     --social-icons-bottom-margin: 3rem;
@@ -57,27 +57,16 @@
     --table-margin-bottom: 1.5rem;
 
     /* Theme */
-    /* --content-primary: rgb(36, 36, 36);
-    --content-secondary: rgb(117, 117, 117);
-    --background: rgb(255, 255, 255);
-    --code-background: rgb(249, 249, 249);
-    --code-border: rgb(229, 229, 229); */
     --content-primary: #22223b;          /* body text */
     --content-secondary: #6e3ab8;        /* accents/bold */
-    --background: #f5f6fb;               /* page bg */
-    --code-background: #efe9fb;          /* light lavender */
-    --code-border: #c6b5e6;              /* soft purple border */
+    --background: #F1D3AE;               /* page bg */
+    --code-background: #A7A56D;          /* light lavender */
+    --code-border: #a7a7a7;              /* soft purple border */
     --schedule-row-even: #ffffff;        /* even rows */
-    --schedule-row-odd:  #f3eefc; 
+    --schedule-row-odd:  #e6ebf1; 
+    --schedule-top: #267CC5;
 }
 
-/* .dark {
-    --content-primary: rgb(218, 218, 218);
-    --content-secondary: rgb(140, 140, 140);
-    --background: rgb(27, 32, 68);
-    --code-background: rgb(30, 30, 30);
-    --code-border: rgb(50, 50, 50);
-} */
 
 @media screen and (max-width: 1024px) {
     :root {

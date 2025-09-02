@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Literata";
+  font-family: "sans-serif";
   margin: auto;
   max-width: var(--main-width);
   padding-left: var(--main-padding);
@@ -61,7 +61,6 @@ a {
 
 pre {
   padding: var(--code-padding);
-  border: 1px solid var(--code-border);
   overflow: scroll;
   border-radius: var(--code-border-radius);
   margin-top: var(--code-margin-top);
@@ -137,6 +136,15 @@ hr {
   font-weight: bold;
   margin-bottom: 0;
   margin-top: 0;
+
+
+  font-family: "Fredoka Black", "Baloo 2", 
+               "Rubik Black", "Nunito Sans Black", 
+               "Arial Rounded MT Bold", system-ui, sans-serif;
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+
 }
 
 /* Table */
@@ -158,7 +166,7 @@ hr {
 }
 
 .schedule-table th {
-  background: #5d5d7f;
+  background: var(--schedule-top);
   color: #fff;
   padding: 14px 10px;
   font-size: 1.1em;
@@ -193,14 +201,41 @@ hr {
   border-right: none;
 }
 
+/* Packing-list */
+.packing-list {
+  background-color: #A7A56D;
+  border-radius: 12px;
+  padding: 1.5rem;
+  padding-top: 5px;
+}
 
 /* house-plan */
+
+.house-plan th {
+  background: var(--schedule-top);
+  color: #fff;
+  padding: 14px 10px;
+  font-size: 1.1em;
+  font-weight: 550;
+}
 
 .house-plan table {
   border-collapse: collapse; 
   text-align: left;
   width: 100%;
+  border-color: var(--code-border);
+  border-radius: 12px;
 }
+
+.house-plan td:nth-child(even) {
+  background: var(--schedule-row-even);
+}
+
+.house-plan td:nth-child(odd) {
+  background: var(--schedule-row-odd);
+}
+
+
 .house-plan th,
 .house-plan td {
   width: 10%;
