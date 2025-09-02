@@ -36,7 +36,7 @@ homeContent = """
     <p>We have put together a packing list for you:</p>
     <details>
         <summary style="font-weight: bold">PACKING LIST</summary>
-        <div style="font-style: italic">
+        <div>
         <ul>
         <li>Valid passport (on the boat trips we pass into German waters and a passport is mandatory to bring)<br>
         Please note that if your passport is issued by a non-EU country you must also be able to document your entry permit to the EU. Living and working in Denmark you should have this visa already, so don’t worry, just remember to bring it.</li>

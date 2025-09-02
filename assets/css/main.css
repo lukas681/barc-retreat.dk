@@ -211,6 +211,11 @@ hr {
 
 /* house-plan */
 
+.house-plan {
+  border: 1px solid var(--code-border);
+  border-radius: var(--code-border-radius);
+}
+
 .house-plan th {
   background: var(--schedule-top);
   color: #fff;
@@ -224,7 +229,7 @@ hr {
   text-align: left;
   width: 100%;
   border-color: var(--code-border);
-  border-radius: 12px;
+  border-radius: var(--code-border-radius);
 }
 
 .house-plan td:nth-child(even) {
@@ -245,6 +250,25 @@ hr {
 
 .house-plan th {
   white-space: nowrap;
+}
+
+.house-plan th,
+.house-plan tr:first-child td {
+  border-top: none;
+}
+
+.house-plan tr:last-child td {
+  border-bottom: none;
+}
+
+.house-plan th:first-child,
+.house-plan tr td:first-child {
+  border-left: none;
+}
+
+.house-plan th:last-child,
+.house-plan tr td:last-child {
+  border-right: none;
 }
 
 /* Footer */
@@ -475,6 +499,10 @@ footer a {
   max-width: 100vw !important;
 }
 
+img {
+  border-radius: var(--code-border-radius);
+}
+
 .caption-container {
   display: flex;
   justify-content: center;
@@ -540,14 +568,7 @@ p code {
 
 /* Tables */
 
-table {
-  border-collapse: collapse;
-  margin-top: var(--table-margin-top);
-  margin-bottom: var(--table-margin-bottom);
-  font-size: var(--p-font-size);
-  line-height: var(--p-line-height);
-  color: var(--content-primary);
-}
+
 
 th,
 td {
