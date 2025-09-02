@@ -27,7 +27,7 @@
 <div class="schedule-table-wrapper ">
   <table class="schedule-table">
     <thead>
-      <tr></tr>
+      <tr>
         {{ range $table.headers }}
           <th>{{ . }}</th>
         {{ end }}
@@ -37,7 +37,7 @@
       {{ range $i, $row := $table.rows }}
         <tr>
           {{ range $cell := $row }}
-            <td style="padding:10px; border:1px solid #ddd; vertical-align:top; background:{{ if eq (mod $i 2) 0 }}var(--schedule-row-even){{ else }}var(--schedule-row-odd){{ end }};">{{ $cell | safeHTML }}</td>
+            <td>{{ $cell | safeHTML }}</td>
           {{ end }}
         </tr>
       {{ end }}
