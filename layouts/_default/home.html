@@ -54,6 +54,48 @@
 </div>
 {{ end }}
 
+{{/* Schedule */}}
+
+{{ with .Site.Params.focs.description }}
+<div class="intro">
+    <p>{{ .  |markdownify |safeHTML }}</p>
+</div>
+{{ end }}
+{{ $table := .Site.Params.focs }}
+{{ if $table }}
+<div class="focs-table">
+  <details>
+    <summary style="font-weight: bold">FOCS Papers</summary>
+    <div class="schedule-table-wrapper ">
+      <table class="schedule-table">
+        <thead>
+          <tr>
+            {{ range $table.headers }}
+              <th>{{ . }}</th>
+            {{ end }}
+          </tr>
+        </thead>
+        <tbody>
+          {{ range $i, $row := $table.rows }}
+            <tr>
+              {{ range $cell := $row }}
+                <td>{{ $cell | safeHTML }}</td>
+              {{ end }}
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+{{ end }}
+
+{{ with .Site.Params.bus }}
+<div class="intro">
+    <p>{{ .  |markdownify |safeHTML }}</p>
+</div>
+{{ end }}
+
 {{/* Social Icons */}}
 
 {{ with site.Params.social }}
@@ -67,6 +109,9 @@
     {{- end }}
 </div>
 {{ end }}
+
+
+
 
 {{/* Collection Section */}}
 
